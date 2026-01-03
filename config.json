@@ -1,0 +1,6 @@
+{
+  "delay_min": 40,
+  "delay_max": 60,
+  "devices_per_account": 1,
+  "threads_delay_startup": 15
+}
