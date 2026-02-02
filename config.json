@@ -2,5 +2,9 @@
   "delay_min": 40,
   "delay_max": 60,
   "devices_per_account": 1,
-  "threads_delay_startup": 15
+  "threads_delay_startup": 15,
+  "rto_chance": 0.05,
+  "rto_duration_min": 10,
+  "rto_duration_max": 60,
+  "enable_real_scraping": true
 }
